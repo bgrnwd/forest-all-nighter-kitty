@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-A port of [huytd's](https://github.com/huytd) [Forest All Nighter theme](https://github.com/huytd/vscode-forest-all-nighter) for Kitty.
+A port of [huytd's](https://github.com/huytd) [Forest All Nighter theme](https://github.com/huytd/vscode-forest-all-nighter) for [kitty](https://sw.kovidgoyal.net/kitty/).
 
 ## Install
 
