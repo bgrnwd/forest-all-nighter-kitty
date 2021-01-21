@@ -4,6 +4,8 @@
 
 A port of [huytd's](https://github.com/huytd) [Forest All Nighter theme](https://github.com/huytd/vscode-forest-all-nighter) for [kitty](https://sw.kovidgoyal.net/kitty/).
 
+![screenshot of theme applied to terminal](./screenshot.png)
+
 ## Install
 
 Download `forest-all-nighter.conf` and place it under `~/.config/kitty/`
