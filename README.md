@@ -18,8 +18,8 @@ include forest-all-nighter.conf
 
 ## Related
 
-- [sainnhe/forest-night](https://github.com/sainnhe/forest-night)
-- [sainnhe/forest-night-vscode](https://github.com/sainnhe/forest-night-vscode)
+- [sainnhe/everforest](https://github.com/sainnhe/everforest)
+- [sainnhe/everforest-vscode](https://github.com/sainnhe/everforest-vscode)
 - [huytd/vscode-forest-all-nighter](https://github.com/huytd/vscode-forest-all-nighter)
 - [jef/forest-night-iterm](https://github.com/jef/forest-night-iterm)
 - [huytd/nvim-forest-all-nighter](https://github.com/huytd/nvim-forest-all-nighter)
